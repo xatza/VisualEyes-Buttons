@@ -1,4 +1,3 @@
-[
 {
 "name": "How It Works",
 "link":"#gatsby-focus-wrapper > div > div.sticky-outer-wrapper > div > nav > div > div > div > ul > li:nth-child(1) > a",
@@ -161,4 +160,3 @@
 "expectedUrl":"https://www.visualeyes.design/security",
 "sourceURL ":"https://www.visualeyes.design/"
   }
-]
