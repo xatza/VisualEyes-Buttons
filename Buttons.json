@@ -1,0 +1,164 @@
+[
+  {
+  "name": "How It Works",
+  "link":"#navbar-How-It-Works",
+  "expectedUrl":"https://www.visualeyes.design/how",
+  "sourceURL":"https://www.visualeyes.design/"
+  },
+    {
+  "name":"Features",
+  "link":"#navbar-Features",
+  "expectedUrl":"https://www.visualeyes.design/features",
+  "sourceURL":"https://www.visualeyes.design/"
+    },
+    {
+  "name":"Pricing",
+  "link":"#navbar-Pricing",
+  "expectedUrl":"https://www.visualeyes.design/pricing",
+  "sourceURL":"https://www.visualeyes.design/"
+    },
+    {
+  "name":"Resources",
+  "link":"#navbar-Resources",
+  "expectedUrl":"https://www.visualeyes.design/tools",
+  "sourceURL":"https://www.visualeyes.design/"
+    },
+    {
+  "name":"Login",
+  "link":"#navbar-Log-In",
+  "expectedUrl":"https://app.visualeyes.design/auth/login",
+  "sourceURL":"https://www.visualeyes.design/"
+    },
+    {
+  "name":"Get Started",
+  "link":"#navbar-create-account",
+  "expectedUrl":"https://app.visualeyes.design/auth/create",
+  "sourceURL":"https://www.visualeyes.design/"
+    },
+    {
+  "name":"Get Started - It's Free",
+  "link":"#hero-primary-cta",
+  "expectedUrl":"https://app.visualeyes.design/auth/create",
+  "sourceURL":"https://www.visualeyes.design/"
+    },
+    {
+  "name":"Get Started Now 1",
+  "link":"#btn-value-point-UX-Designers",
+  "expectedUrl":"https://app.visualeyes.design/auth/create",
+  "sourceURL":"https://www.visualeyes.design/"
+    },
+    {
+  "name":"Get Started Now 2",
+  "link":"#btn-value-point-Product-Managers",
+  "expectedUrl":"https://app.visualeyes.design/auth/create",
+  "sourceURL":"https://www.visualeyes.design/"
+    },
+    {
+  "name":"Get Started Now 3",
+  "link":"#btn-value-point-Digital-Marketers",
+  "expectedUrl":"https://app.visualeyes.design/auth/create",
+  "sourceURL":"https://www.visualeyes.design/"
+    },
+    {
+  "name":"Get User Insights",
+  "link":"#btn-personas-Freelancers",
+  "expectedUrl":"https://app.visualeyes.design/auth/create",
+  "sourceURL":"https://www.visualeyes.design/"
+    },
+    {
+  "name":"Help Your Clients grow",
+  "link":"#btn-personas-Digital-Agencies",
+  "expectedUrl":"https://app.visualeyes.design/auth/create",
+  "sourceURL":"https://www.visualeyes.design/"
+    },
+    {
+  "name":"Contact Us",
+  "link":"#btn-personas-Enterprises",
+  "expectedUrl":"https://www.visualeyes.design/contact",
+  "sourceURL":"https://www.visualeyes.design/"
+    },
+    {
+  "name":"Become A Member Now",
+  "link":"#btn-cta-element",
+  "expectedUrl":"https://app.visualeyes.design/auth/create",
+  "sourceURL":"https://www.visualeyes.design/"
+    },  
+    {
+  "name":"Create Account",
+  "link":"#footer-Create-Account",
+  "expectedUrl":"https://app.visualeyes.design/auth/create",
+  "sourceURL":"https://www.visualeyes.design/"
+    },
+    {
+  "name":"Pricing Footer",
+  "link":"#footer-Pricing",
+  "expectedUrl":"https://www.visualeyes.design/pricing",
+  "sourceURL":"https://www.visualeyes.design/"
+    },
+    {
+  "name":"Log in Footer",
+  "link":"#footer-Log-In",
+  "expectedUrl":"https://app.visualeyes.design/auth/login",
+  "sourceURL":"https://www.visualeyes.design/"
+    },
+    {
+  "name":"Status",
+  "link":"#footer-Status",
+  "expectedUrl":"https://status.visualeyes.design/",
+  "sourceURL":"https://www.visualeyes.design/"
+    },
+    {
+  "name":"About",
+  "link":"#footer-About",
+  "expectedUrl":"https://www.visualeyes.design/about",
+  "sourceURL":"https://www.visualeyes.design/"
+    },
+    {
+  "name":"Community",
+  "link":"#footer-Community",
+  "expectedUrl":"https://www.visualeyes.design/community",
+  "sourceURL":"https://www.visualeyes.design/"
+    },
+    {
+  "name":"Contact",
+  "link":"#footer-Contact",
+  "expectedUrl":"https://www.visualeyes.design/contact",
+  "sourceURL":"https://www.visualeyes.design/"
+    },
+    {
+  "name":"Learn",
+  "link":"#footer-Learn",
+  "expectedUrl":"https://www.notion.so/visualeyes/VisualEyes-Cheatsheet-9c30a263a02b4402ac841396b03bd382",
+  "sourceURL":"https://www.visualeyes.design/"
+    }, 
+    {
+  "name":"Above the fold Plugin",
+  "link":"#footer-Above-the-fold-plugin",
+  "expectedUrl":"https://www.visualeyes.design/tools/above-the-fold",
+  "sourceURL":"https://www.visualeyes.design/"
+    },
+    {
+  "name":"Blog",
+  "link":"#footer-Blog",
+  "expectedUrl":"https://blog.visualeyes.design/",
+  "sourceURL":"https://www.visualeyes.design/"
+    },
+    {
+  "name":"Remote Eye-tracking",
+  "link":"#footer-Remote-Eye-Tracking",
+  "expectedUrl":"https://www.loceye.io/?ref=visualeyes",
+  "sourceURL":"https://www.visualeyes.design/"
+    },
+    {
+  "name":"Use Cases",
+  "link":"#footer-Use-Cases",
+  "expectedUrl":"https://www.visualeyes.design/tools/use-cases",
+  "sourceURL":"https://www.visualeyes.design/"
+    },
+    {
+  "name":"Security",
+  "link":"#footer-Security",
+  "expectedUrl":"https://www.visualeyes.design/security",
+  "sourceURL":"https://www.visualeyes.design/"
+    }
+    ]
