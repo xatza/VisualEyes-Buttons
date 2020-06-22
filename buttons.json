@@ -121,7 +121,7 @@
     },
     {
   "name":"Contact",
-  "link":"#footer-contact",
+  "link":"#footer-Contact",
   "expectedUrl":"https://www.visualeyes.design/contact",
   "sourceURL":"https://www.visualeyes.design/"
     },
